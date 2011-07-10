@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "ssh": ">= 0.0.0"
+  },
+  "name": "gitosis",
+  "maintainer_email": "youremail@example.com",
+  "attributes": {
+  },
+  "license": "Apache v2.0",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "Your Name",
+  "long_description": "",
+  "version": "0.0.0",
+  "recommendations": {
+  },
+  "recipes": {
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "A fabulous new cookbook",
+  "providing": {
+  }
+}
